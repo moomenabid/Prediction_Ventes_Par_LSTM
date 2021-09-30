@@ -1,4 +1,4 @@
-# Prediction_Ventes_Par_LSTM
+# Time-series-Prevision-des-ventes-avec-RNN-LSTM
 
 __# Problème de régression de séries temporelles__  
 __# Keras, Recurrent neural network, LSTM, Long Short Term Memory__
